@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeEventos", "CadastroDeEventos\CadastroDeEventos.csproj", "{9401B672-7D08-480B-95A2-7779318D268B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9401B672-7D08-480B-95A2-7779318D268B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9401B672-7D08-480B-95A2-7779318D268B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9401B672-7D08-480B-95A2-7779318D268B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9401B672-7D08-480B-95A2-7779318D268B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9401B672-7D08-480B-95A2-7779318D268B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9401B672-7D08-480B-95A2-7779318D268B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2E25737-F44E-4153-8CE3-B08333F2C756}
+	EndGlobalSection
+EndGlobal
